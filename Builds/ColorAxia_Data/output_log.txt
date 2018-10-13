@@ -1,0 +1,66 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   NVIDIA
+    VRAM:     6052 MB
+    Driver:   24.21.14.1170
+FMOD failed to initialize the output device, attempting to initialize the null output.
+ 
+(Filename:  Line: 1121)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\masmo\Documents\Unity Projects\ColorAxia Project\Builds\ColorAxia_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\masmo\Documents\Unity Projects\ColorAxia Project\Builds\ColorAxia_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\masmo\Documents\Unity Projects\ColorAxia Project\Builds\ColorAxia_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\masmo\Documents\Unity Projects\ColorAxia Project\Builds\ColorAxia_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\masmo\Documents\Unity Projects\ColorAxia Project\Builds\ColorAxia_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\masmo\Documents\Unity Projects\ColorAxia Project\Builds\ColorAxia_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\masmo\Documents\Unity Projects\ColorAxia Project\Builds\ColorAxia_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\masmo\Documents\Unity Projects\ColorAxia Project\Builds\ColorAxia_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\masmo\Documents\Unity Projects\ColorAxia Project\Builds\ColorAxia_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\masmo\Documents\Unity Projects\ColorAxia Project\Builds\ColorAxia_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\masmo\Documents\Unity Projects\ColorAxia Project\Builds\ColorAxia_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\masmo\Documents\Unity Projects\ColorAxia Project\Builds\ColorAxia_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.220 seconds
+Platform assembly: E:\masmo\Documents\Unity Projects\ColorAxia Project\Builds\ColorAxia_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\masmo\Documents\Unity Projects\ColorAxia Project\Builds\ColorAxia_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'AdMob') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 2.946548 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 360c -> priority: 1 
+  Thread -> id: 39cc -> priority: 1 
+  Thread -> id: 2048 -> priority: 1 
+  Thread -> id: 90c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.355780 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 431.
+Total: 0.225002 ms (FindLiveObjects: 0.022244 ms CreateObjectMapping: 0.010210 ms MarkObjects: 0.169572 ms  DeleteObjects: 0.022244 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.226321 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 906.
+Total: 1.111519 ms (FindLiveObjects: 0.123988 ms CreateObjectMapping: 0.042301 ms MarkObjects: 0.866825 ms  DeleteObjects: 0.076581 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.707619 ms
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 444.
+Total: 1.449570 ms (FindLiveObjects: 0.031726 ms CreateObjectMapping: 0.010575 ms MarkObjects: 0.172854 ms  DeleteObjects: 1.233320 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.439429 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1515.
+Total: 0.703087 ms (FindLiveObjects: 0.091167 ms CreateObjectMapping: 0.024797 ms MarkObjects: 0.554665 ms  DeleteObjects: 0.032091 ms)
+
